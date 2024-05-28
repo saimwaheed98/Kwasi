@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715074221772",
+    "project_id": "kwasi-45e3f",
+    "storage_bucket": "kwasi-45e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715074221772:android:1cabe81cda2adac9cfb469",
+        "android_client_info": {
+          "package_name": "com.app.kwasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6woAtFamMmEjIwgDymtRsSX2ceBvoTI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
